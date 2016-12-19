@@ -9,6 +9,7 @@
         }
     ],
     "require": {},
+    "include-path": ["app/include", "contrib"],
     "autoload": {
         "psr-4": {
             "XYZ\\": "app/classes/XYZ"
