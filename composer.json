@@ -1,0 +1,17 @@
+{
+    "name": "unixnut/template-php-project",
+    "description": "A self-contained project that uses the Composer autoloader to load class files",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Alastair Irvine",
+            "email": "alastair@plug.org.au"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XYZ\\": "app/classes/XYZ"
+        }
+    }
+}
