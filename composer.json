@@ -1,7 +1,7 @@
 {
     "name": "unixnut/template-php-project",
     "description": "A self-contained project that uses the Composer autoloader to load class files",
-    "license": "GPL",
+    "license": "GPL-2.0+",
     "authors": [
         {
             "name": "Alastair Irvine",
